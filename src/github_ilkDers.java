@@ -4,5 +4,8 @@ public class github_ilkDers {
 
 
         System.out.println("Hello github");
+        System.out.println("===================");
+
+        System.out.println("Have a nice day!");
     }
 }
