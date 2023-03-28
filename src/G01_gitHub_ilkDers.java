@@ -7,5 +7,7 @@ public class G01_gitHub_ilkDers {
         System.out.println("===================");
 
         System.out.println("Have a nice day!");
+
+        System.out.println("merhaba ben berke");
     }
 }
