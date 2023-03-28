@@ -1,4 +1,4 @@
-public class github_ilkDers {
+public class G01_gitHub_ilkDers {
 
     public static void main(String[] args) {
 
